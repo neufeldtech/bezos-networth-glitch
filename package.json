@@ -1,0 +1,26 @@
+{
+  "name": "bezos-networth",
+  "version": "0.0.1",
+  "description": "Yep",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "cheerio": "^0.22.0",
+    "request": "^2.88.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/neufeldtech/bezos-networth-glitch"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
